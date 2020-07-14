@@ -1,0 +1,2 @@
+# Control-Alimenticio
+En este programa, la idea principal, es poder cuidar tu alimentación, para la mejora de tu salud, se necesitan de datos básicos, como el peso y la altura para llevar un control de todo ello. Te arrojara como respuesta la cantidad de Kcal que debes consumir al día y la cantidad de agua. También te proporcionara un plan alimenticio semanal, y si no estas conforme, habrá otras opciones, en las cuales tu podrás elegir los alimentos y podrás saber su cantidad de Kcal por cada 100g o 100ml, todo por un mejor estilo de vida.
